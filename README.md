@@ -102,7 +102,6 @@ Step 2: Trigger the Sync
 - On the far right, click the Play button (Trigger DAG).
 
 Step 3: Set up New Connection in MySQL Workbench
-
 To connect externally to MySQL (e.g., for querying or debugging), use MySQL Workbench or a client.
 
 Create a new connection with:
